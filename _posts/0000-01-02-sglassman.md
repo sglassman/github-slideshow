@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our SGlassman slide!"
 ---
-I am the Git Master
+This is my GitHub Desktop Update
 Use the left arrow to go back!
